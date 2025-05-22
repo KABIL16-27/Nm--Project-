@@ -1,6 +1,3 @@
-# Welcome to your my project
-
-## Project info
 
 **Use your preferred IDE**
 
@@ -47,7 +44,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+open the:House_Price_Prediction.ipynb
 
 
 ## Can I connect a custom domain to my Lovable project?
