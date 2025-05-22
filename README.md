@@ -2,16 +2,6 @@
 
 ## Project info
 
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-
-
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected.
@@ -27,7 +17,7 @@ git clone [https://github.com/KABIL16-27/Nm--Project-.git]
 cd [forecasting house  prices accurately using smart regression techniques in data science]
 
 # Step 3: Install the necessary dependencies.
-npm i
+data set : House Prices - Advanced Regression Techniques
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
